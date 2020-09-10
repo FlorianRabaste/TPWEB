@@ -1,0 +1,42 @@
+div#bandeau 
+{
+	width:100%;
+	height:20px;
+    background-color:#00CCFF;
+    display: flex;
+    justify-content: center;
+    flex-direction: column ;
+    text-align: center;
+}
+div#contenu 
+{
+	width:auto;
+	height:400px;
+	background-color:#FFCC00;
+    display: flex;
+    justify-content: center;
+    flex-direction: column ;
+    text-align: center;
+}
+div#piedpage 
+{
+	width:100%;
+	height:50px;
+    background-color:#33FF99;
+    display: flex;
+    justify-content: center;
+    flex-direction: column ;
+    clear: both;
+    text-align: center;
+}
+div#menu 
+{
+    float: left;
+    width: 20%;
+    height: 400px;
+    background-color: #ff6699;
+    display: flex;
+    justify-content: center;
+    flex-direction: column ;
+    text-align: center;
+}    
