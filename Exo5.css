@@ -29,14 +29,36 @@ div#piedpage
     clear: both;
     text-align: center;
 }
-div#menu 
+div #menu
 {
     float: left;
     width: 20%;
     height: 400px;
-    background-color: #ff6699;
+    background-color: pink;
     display: flex;
     justify-content: center;
     flex-direction: column ;
     text-align: center;
+}    
+div#menuhaut 
+{
+    width: 20%;
+    height: 200px;
+    background-color: greenyellow;
+    display: flex;
+    justify-content: center;
+    flex-direction: column ;
+    text-align: center;
+    padding-top: 200px;
+}    
+div#menubas 
+{
+    width: 20%;
+    height: 200px;
+    background-color: violet;
+    display: flex;
+    justify-content: center;
+    flex-direction: column ;
+    text-align: center;
+    padding-bottom: 200px;
 }    
