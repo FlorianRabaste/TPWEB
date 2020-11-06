@@ -1,0 +1,26 @@
+body{
+    color: black;
+    background-color: white;
+    background-image: url(https://wallpapercave.com/wp/wp5338408.png);
+    background-attachment: fixed;
+    background-repeat: repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+h1{
+    color: rgb(105, 19, 105);
+}
+
+b{
+    color: red;
+}
+
+.flotte{
+    float: right;
+}
+
+.saucisson{
+    float: left;
+}
+

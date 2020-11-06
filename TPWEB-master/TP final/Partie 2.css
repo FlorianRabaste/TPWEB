@@ -1,0 +1,21 @@
+body{
+    color: black;
+    background-color: white;
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/42480292-4fb7-4439-86f4-36edc5ed2a6b/dc836ot-0ac0519e-c005-4b3f-b343-0d165eed5df7.png/v1/fill/w_1024,h_576,q_80,strp/jojo_s_minimalistic_adventure__battle_tendency__2_by_jonasbrunoz_dc836ot-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD01NzYiLCJwYXRoIjoiXC9mXC80MjQ4MDI5Mi00ZmI3LTQ0MzktODZmNC0zNmVkYzVlZDJhNmJcL2RjODM2b3QtMGFjMDUxOWUtYzAwNS00YjNmLWIzNDMtMGQxNjVlZWQ1ZGY3LnBuZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.FAnIhFh2Vce3CnKAxcgLivUFSu6os_gy3lNwG28agMQ);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+h1{
+    color: #6D071A;
+}
+
+b{
+    color: red;
+}
+
+.flotte{
+    float: right;
+}

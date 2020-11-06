@@ -1,0 +1,21 @@
+body{
+    color: black;
+    background-color: white;
+    background-image: url(https://pbs.twimg.com/media/D_XhkPLWwAUEzrb.jpg);
+    background-attachment: fixed;
+    background-repeat: repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+h1{
+    color: rgb(182, 31, 182);
+}
+
+b{
+    color: red;
+}
+
+.flotte{
+    float: right;
+}
