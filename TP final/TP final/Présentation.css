@@ -1,4 +1,15 @@
-
+.button12 {
+    display: block;
+    font-size: larger;
+    width: 11%;
+    background-color: rgb(1, 1, 12);
+    box-shadow: 0 5px 0 rgb(17, 6, 63);
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    display: inline-block;
+}   
         .button1 {
             display: block;
             font-size: larger;
@@ -131,6 +142,7 @@
             text-decoration: none;
             display: inline-block;
         }
+
 body {
     color: black;
     background-color: white;

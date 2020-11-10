@@ -1,3 +1,149 @@
+.button12 {
+    display: block;
+    font-size: larger;
+    width: 11%;
+    background-color: rgb(1, 1, 12);
+    box-shadow: 0 5px 0 rgb(17, 6, 63);
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    display: inline-block;
+}   
+.button1 {
+    display: block;
+    font-size: larger;
+    width: 11%;
+    background-color: blue;
+    box-shadow: 0 5px 0 #105;
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    display: inline-block;
+}
+.button2 {
+    display: block;
+    font-size: larger;
+    width: 11%;
+    background-color: #6D071A;
+    box-shadow: 0 5px 0 #4E1609;
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    display: inline-block;
+}
+.button3 {
+    display: block;
+    font-size: larger;
+    width: 11%;
+    background-color: rgb(7, 7, 97);
+    box-shadow: 0 5px 0 black;
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    display: inline-block;
+}
+.button4 {
+    display: block;
+    font-size: larger;
+    width: 11%;
+    background-color: rgb(189, 21, 189);
+    box-shadow: 0 5px 0 rgb(97, 2, 97);
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    display: inline-block;
+}
+.button5 {
+    display: block;
+    font-size: larger;
+    width: 11%;
+    background-color: gold;
+    box-shadow: 0 5px 0 rgb(138, 118, 3);
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    display: inline-block;
+}
+.button6 {
+    display: block;
+    font-size: larger;
+    width: 11%;
+    background-color: rgb(4, 168, 4);
+    box-shadow: 0 5px 0 rgb(2, 102, 2);
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    display: inline-block;
+}
+.button7 {
+    display: block;
+    font-size: larger;
+    width: 11%;
+    background-color: red;
+    box-shadow: 0 5px 0 blue;
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    display: inline-block;
+}
+.button8 {
+    display: block;
+    font-size: larger;
+    width: 11%;
+    background-color: rgb(204, 103, 174);
+    box-shadow: 0 5px 0 rgb(163, 29, 92);
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    display: inline-block;
+}
+.button9 {
+    display: block;
+    font-size: larger;
+    width: 11%;
+    background-color: grey;
+    box-shadow: 0 5px 0 rgb(65, 63, 63);
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    display: inline-block;
+}
+.button10 {
+    display: block;
+    font-size: larger;
+    width: 11%;
+    background-color: rgb(255, 145, 0);
+    box-shadow: 0 5px 0 rgb(151, 102, 11);
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    display: inline-block;
+}
+.button11 {
+    display: block;
+    font-size: larger;
+    width: 11%;
+    background-color: rgb(104, 177, 104);
+    box-shadow: 0 5px 0 rgb(53, 156, 53);
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
 body{
     color: black;
     background-color: white;
